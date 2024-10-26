@@ -14,9 +14,9 @@ Welcome to my corner of the tech universe! I'm passionate about crafting code th
 ### 🤝 Connect with Me
 Let's connect and share ideas!  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40katiyar-28a8ea"></a>
-<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-katiyar-sonu"></a>
+<a href="https://www.linkedin.com/in/sonu-katiyar-lifelonglearner/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-katiyar-sonu"></a>
 <a href="mailto:katiyasonu2110@gmail.com"><img src="https://img.shields.io/badge/Email-katiyarsonu%40gmail-orange"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-katiyar.dev-red"></a>
+<a href="https://www.katiyardev.tech/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-katiyardev.tech-red"></a>
 
 ---
 
