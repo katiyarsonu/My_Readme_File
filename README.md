@@ -16,7 +16,7 @@
 
 #### Who I am?
 
-- A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Jaipur), [Bangladesh](https://en.wikipedia.org/wiki/India)**.
+- A Software Engineer based in **[Jaipur](https://en.wikipedia.org/wiki/Jaipur), [India](https://en.wikipedia.org/wiki/India)**.
 - Interned as **Software Engineer I** at **[Correct Steps Consultancy.](https://thecorrectsteps.com/)**.
 - See my portfolio at **[Click here](https://www.katiyardev.tech/)**.
 
@@ -63,15 +63,26 @@
 
 ---
 
-### My Github Status:
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  </a>
+</div>
 
-<a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" /></a>
 
 ---
 
 ### Top Usage Languages:
 
-<a href="https://github.com/katiyarsonu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
+<a href="https://github.com/katiyarsonu"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katiyarsonu&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" alt="katiyarsonu" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katiyarsonu&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" alt="katiyarsonu" /></p>
+
 
 
 
