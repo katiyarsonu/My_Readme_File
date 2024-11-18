@@ -4,13 +4,13 @@
   </a>
 </h1>
 
-
 - 🔭 Focusing on FullStack.😎
 - 🌱 I’m currently learning Devops ❤
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
 - 🥅 2022 Goals: Want to be a Fullstack Web Developer.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 ---
 
